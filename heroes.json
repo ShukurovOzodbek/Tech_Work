@@ -1,0 +1,74 @@
+{
+  "heroes": [
+    {
+      "id": 3,
+      "name": "Первый герой",
+      "description": "Первый герой в рейтинге!",
+      "element": "fire"
+    },
+    {
+      "id": 0.4918816459988844,
+      "name": "Ozodbek",
+      "description": "asdasdaasd asd asd asd",
+      "element": ""
+    },
+    {
+      "id": 0.573273677190254,
+      "name": "Ozodbek",
+      "description": "sadasd asds as a sd s",
+      "element": "all"
+    },
+    {
+      "id": 0.3248779878449888,
+      "name": "Asadbek",
+      "description": "sadasdadad",
+      "element": "fire"
+    },
+    {
+      "id": 0.8556555375985284,
+      "name": "Ozobek",
+      "description": "ыфывфывфывв",
+      "element": "water"
+    },
+    {
+      "id": 0.9765107378956537,
+      "name": "Ozodbek",
+      "description": "фывфывфывыфв",
+      "element": "wind"
+    },
+    {
+      "id": 0.5550446640766542,
+      "name": "Ozodbek",
+      "description": "asddasdasd as dasd ",
+      "element": "earth"
+    },
+    {
+      "id": 0.5133427418907326,
+      "name": "Ozodbek",
+      "description": "sdasdasdasd asdasda dads",
+      "element": "earth"
+    }
+  ],
+  "filters": [
+    {
+      "name": "all",
+      "style": "btn btn-outline-dark active"
+    },
+    {
+      "name": "fire",
+      "style": "btn btn-danger"
+    },
+    {
+      "name": "water",
+      "style": "btn btn-primary"
+    },
+    {
+      "name": "wind",
+      "style": "btn btn-success"
+    },
+    {
+      "name": "earth",
+      "style": "btn btn-secondary"
+    }
+  ]
+}
